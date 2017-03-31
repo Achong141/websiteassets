@@ -1,4 +1,4 @@
-@import url('file:///C:\Users\Andrew\Downloads\websiteassets\projects.html');
+@import url('file:///C:\Users\Andrew\Downloads\websiteassets\drawingperformanceproject.html');
 
 body {
     font-family: "century gothic";
@@ -50,10 +50,15 @@ h2 {
 
 .container {
     position: absolute;
-    top: 400px;
     left: 1100px;
 }
 
 .floatimg {
     float: left;
+}
+
+.woodcontainer {
+    position: absolute;
+    top: 850px;
+    
 }
