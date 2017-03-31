@@ -47,3 +47,13 @@ h2 {
     top: 400px;
     background-color: beige;
 }
+
+.container {
+    position: absolute;
+    top: 400px;
+    left: 1100px;
+}
+
+.floatimg {
+    float: left;
+}
