@@ -2,6 +2,7 @@
 
 body {
     font-family: "century gothic";
+    background-color: #FFF9FC;
 }
 
 .topnav {
@@ -17,7 +18,7 @@ body {
     text-align: center;
     padding: 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 32px;
     width: 25%
 }
 
@@ -36,4 +37,33 @@ body {
   max-height:100%;
   margin:auto;
   display:block;
+}
+
+.caption1 {
+    position: absolute;
+        left: 150px; 
+        width: 100%;
+        top: 660px;
+    font-size: 24px;
+        color: white;
+}
+
+.brief {
+    position: absolute;
+    top: 770px;
+    background-color: beige;
+}
+
+.image2 {
+position: absolute;
+    left: 1000px;
+    top: 770px;
+}
+
+.caption2 {
+    position: absolute;
+    left: 1050px;
+    top: 1100px;
+    font-size: 24px;
+    color: white;
 }
