@@ -31,3 +31,16 @@ body {
     background-color: #FF007F;
     color: white;
 }
+h2 {
+    color: #FF007F;
+    font-size: 48px;
+}
+body {
+    font-family: "century gothic";
+    background-color: #FFF9FC;
+    background-image: url(modelopacity.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
