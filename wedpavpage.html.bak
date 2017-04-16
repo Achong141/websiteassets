@@ -7,7 +7,11 @@
                 </title>
         <link rel="stylesheet" type="text/css" href="style5.css">
 
-    </head>
+    
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<script type="text/javascript" src="engine0/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section --></head>
 <body>
     <header>
     <h1>
@@ -23,6 +27,29 @@
         <p>
             Wedding Pavillion on Lake Erie
             </p>
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container0">
+	<div class="ws_images"><ul>
+		<li><img src="data0/images/final1.jpg" alt="Process Work and Design" title="Process Work and Design" id="wows0_0"/></li>
+		<li><img src="data0/images/final2.jpg" alt="Storyboard" title="Storyboard" id="wows0_1"/></li>
+		<li><img src="data0/images/final3.jpg" alt="Site Plan" title="Site Plan" id="wows0_2"/></li>
+		<li><img src="data0/images/final6.jpg" alt="Section Perspective View" title="Section Perspective View" id="wows0_3"/></li>
+		<li><a href="http://wowslider.com"><img src="data0/images/final4.jpg" alt="bootstrap slider" title="Elevation and Section Elevation" id="wows0_4"/></a></li>
+		<li><img src="data0/images/final5.jpg" alt="Axonometric Section" title="Axonometric Section" id="wows0_5"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="Process Work and Design"><span><img src="data0/tooltips/final1.jpg" alt="Process Work and Design"/>1</span></a>
+		<a href="#" title="Storyboard"><span><img src="data0/tooltips/final2.jpg" alt="Storyboard"/>2</span></a>
+		<a href="#" title="Site Plan"><span><img src="data0/tooltips/final3.jpg" alt="Site Plan"/>3</span></a>
+		<a href="#" title="Section Perspective View"><span><img src="data0/tooltips/final6.jpg" alt="Section Perspective View"/>4</span></a>
+		<a href="#" title="Elevation and Section Elevation"><span><img src="data0/tooltips/final4.jpg" alt="Elevation and Section Elevation"/>5</span></a>
+		<a href="#" title="Axonometric Section"><span><img src="data0/tooltips/final5.jpg" alt="Axonometric Section"/>6</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">jquery slideshow</a> by WOWSlider.com v8.7</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine0/wowslider.js"></script>
+	<script type="text/javascript" src="engine0/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
         </h2>
     </header>
     
