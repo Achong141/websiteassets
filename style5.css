@@ -44,3 +44,9 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+.brief {
+    position: absolute;
+   left: 500px;
+    top: 2000px;
+    background-color: beige;
+}
