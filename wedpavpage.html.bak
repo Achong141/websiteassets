@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+    <head> 
+    	<meta charset="UTF-8">
+    	<title>
+            Andrew Chong Website
+                </title>
+        <link rel="stylesheet" type="text/css" href="style5.css">
+
+    </head>
+<body>
+    <header>
+    <h1>
+    <img src="logo.png" width="115.3" height="151.7"> <!logo image>
+    </h1>
+    
+        <div class="topnav" id="myTopnav"> <!navigation bar consistent with every page>
+  <a href="index.html">Home</a>
+  <a href="projectpagedirectory.html">Projects</a>
+  <a href="about.html">About</a>
+</div>
+        <h2>
+        <p>
+            Wedding Pavillion on Lake Erie
+            </p>
+        </h2>
+    </header>
+    
+    </body>
+</html>
